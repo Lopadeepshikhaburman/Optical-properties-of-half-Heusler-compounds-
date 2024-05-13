@@ -1,2 +1,2 @@
-# Optical-properties-of-half-Heusler-compounds-
-My Integrated Masters final semester project on half-Heusler compounds XCaB (X = Li, Na and K), where I did a DFT  based study on optical on the compounds under the application of tensile and compressive stress.
+# Optical-properties-of-half-Heusler-compounds
+Description of the file: My Integrated Masters final semester project on half-Heusler compounds XCaB (X = Li, Na and K), where I did a DFT  based study on optical on the compounds under the application of tensile and compressive stress.
